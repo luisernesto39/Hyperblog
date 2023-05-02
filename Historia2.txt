@@ -3,3 +3,5 @@ Este es el segundo intento del curso Git y GitHub
 Espero que me vaya muy bien y poder entender a este tipo
 
 Hoy empezamos con lo complicado.
+
+En camara parece alto pero la verdad no es tan alto.
