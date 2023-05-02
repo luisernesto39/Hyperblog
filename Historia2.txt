@@ -1,0 +1,5 @@
+Este es el segundo intento del curso Git y GitHub
+
+Espero que me vaya bien
+
+Hoy empezamos con lo complicado.
